@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KafkaNetCore.Consumer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
